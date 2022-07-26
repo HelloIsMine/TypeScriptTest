@@ -1,2 +1,2 @@
 # TypeScriptTest
-It is used to test typescript.
+It is used to test ts&js
